@@ -70,9 +70,22 @@ While the minions handle specialized tasks, Gemini is our go-to intern for the h
 git clone https://github.com/your-username/claude-streamlit-agents.git
 cd claude-streamlit-agents
 
+# Install Gemini CLI to unlock the full power of our intern
+npm install -g @google/gemini-cli
+
 # Start building amazing things
 # (The agents are already configured and ready to go!)
 ```
+
+### Prerequisites
+
+To fully utilize our minion army, you'll need:
+
+- **Claude Code CLI** (you probably already have this!)
+- **Gemini CLI** - Our data-crunching intern requires this to process large files and save your precious Claude tokens for actual development
+
+Install Gemini CLI: `npm install -g @google/gemini-cli`  
+More info: https://github.com/google-gemini/gemini-cli
 
 ## Project Structure
 
