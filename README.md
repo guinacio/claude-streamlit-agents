@@ -15,7 +15,7 @@ Our specialized agents are ready to tackle any Streamlit challenge:
 ### The Design Squad
 - **🎨 UX Architect**: Makes your apps so beautiful, users will weep tears of joy
 - **📊 Data Viz Expert**: Turns boring numbers into stunning visual stories
-- **🎭 UI Customization Expert**: CSS wizard who makes your app look like it belongs in 2024, not 1999
+- **🎭 UI Customization Expert**: CSS wizard who makes your app look like it belongs in 2024+, not 1999
 
 ### The Backend Wizards
 - **⚡ Performance Optimizer**: Makes your app faster than a caffeinated cheetah
