@@ -148,5 +148,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *Built with ❤️ by Claude and the minion army. Powered by caffeine and the relentless pursuit of perfect Streamlit apps.*
-
-**P.S.**: If you're still reading this, you're probably the kind of developer we'd love to work with. The minions are always hiring! 😉
